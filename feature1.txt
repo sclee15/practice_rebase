@@ -11,4 +11,5 @@ commit
 9
 10
 Feature Zero
+New Feature 1
 Feature Three
